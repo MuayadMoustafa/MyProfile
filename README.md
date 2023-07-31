@@ -30,7 +30,7 @@ My Career
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupiter)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupiternotebook)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Seborn](https://img.shields.io/badge/-Seborn-05122A?style=flat&logo=seborn)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-SkLearn-05122A?style=flat&logo=sklearn)&nbsp;
