@@ -32,7 +32,7 @@ My Career
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=Jupiter)&nbsp;
 ![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=sass)&nbsp;
-![Sklearn](https://img.shields.io/badge/-skLearn-05122A?style=flat&logo=sass)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+![Sklearn](https://img.shields.io/badge/-skLearn-05122A?style=flat&logo=sklearn)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-style=flat&logo=Tensorflow)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MongoDB)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
