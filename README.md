@@ -27,7 +27,7 @@ My Career
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=sass)&nbsp;
+![Jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=Jupiter)&nbsp;
 ![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=sass)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=sass)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-skLearn-05122A?style=flat&logo=sass)&nbsp;
