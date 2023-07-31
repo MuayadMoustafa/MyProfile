@@ -31,5 +31,5 @@ My Career
 ![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=sass)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=sass)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-skLearn-05122A?style=flat&logo=sass)&nbsp;
-![Tensorflow](https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-style=flat&logo=MongoDB)&nbsp;
 ![MsSqlServer](https://img.shields.io/badge/-MsSqlServer-05122A?style=flat&logo=MongoDB)&nbsp;
