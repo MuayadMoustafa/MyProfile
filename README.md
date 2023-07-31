@@ -32,7 +32,7 @@ My Career
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupiternotebook)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Seborn](https://img.shields.io/badge/-Seborn-05122A?style=flat&logo=seborn)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-SkLearn-05122A?style=flat&logo=sklearn)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
