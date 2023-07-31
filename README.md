@@ -34,5 +34,5 @@ My Career
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-SkLearn-05122A?style=flat&logo=sklearn)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-style=flat&logo=Tensorflow)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
