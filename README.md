@@ -21,8 +21,7 @@ My Career
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/muayad-moustafa-454435154" target="_blank"><img src=(https://img.shields.io/badge/-LinkedIn 
-style=flat&logo=LinkedIn)&nbsp;</a>
+<a href="https://www.linkedin.com/in/muayad-moustafa-454435154" target="_blank"><img src="https://img.shields.io/badge/-Muayad Moustafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
  
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
