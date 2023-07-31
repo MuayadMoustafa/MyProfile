@@ -30,9 +30,9 @@ My Career
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=Jupiter)&nbsp;
-![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
-![Sklearn](https://img.shields.io/badge/-skLearn-05122A?style=flat&logo=sklearn)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupiter)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+![Sklearn](https://img.shields.io/badge/-SkLearn-05122A?style=flat&logo=sklearn)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-style=flat&logo=Tensorflow)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
