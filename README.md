@@ -24,7 +24,7 @@ My Career
 <a href="https://www.linkedin.com/in/muayad-moustafa-454435154" target="_blank"><img src="https://img.shields.io/badge/-Muayad Moustafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=dark blue"/></a>
 <a href="https://twitter.com/moaiadmoustafa?t=w-sv0OdA83oA14RsBm1FgA&s=09" target="_blank"><img src="https://img.shields.io/badge/-MuayadMoustafa-0077B5?style=for-the-badge&logo=Twitter&logoColor=black"/></a>
 <a href="https://www.kaggle.com/muayad" target="_blank"><img src="https://img.shields.io/badge/-Muayad-0077B5?style=for-the-badge&logo=Kaggle&logoColor=cyan"/></a>
-<a href="moaiadmoustafa96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-moaiad-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="moaiadmoustafa96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-muayad-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
  
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
